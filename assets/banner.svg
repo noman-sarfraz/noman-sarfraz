@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220" role="img" aria-label="Noman Sarfraz - Software Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="50%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#312e81"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6366f1"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="900" height="220" rx="16" fill="url(#bg)"/>
+
+  <g opacity="0.08" stroke="#94a3b8" stroke-width="1">
+    <line x1="0" y1="55" x2="900" y2="55"/>
+    <line x1="0" y1="110" x2="900" y2="110"/>
+    <line x1="0" y1="165" x2="900" y2="165"/>
+    <line x1="150" y1="0" x2="150" y2="220"/>
+    <line x1="300" y1="0" x2="300" y2="220"/>
+    <line x1="450" y1="0" x2="450" y2="220"/>
+    <line x1="600" y1="0" x2="600" y2="220"/>
+    <line x1="750" y1="0" x2="750" y2="220"/>
+  </g>
+
+  <rect x="48" y="48" width="4" height="124" rx="2" fill="url(#accent)"/>
+
+  <text x="720" y="72" fill="#475569" font-family="Consolas, Monaco, monospace" font-size="28" opacity="0.6">&lt;/&gt;</text>
+
+  <text x="72" y="88" fill="#e2e8f0" font-family="Segoe UI, system-ui, sans-serif" font-size="34" font-weight="700" filter="url(#glow)">
+    Noman Sarfraz
+  </text>
+
+  <text x="72" y="122" fill="#94a3b8" font-family="Segoe UI, system-ui, sans-serif" font-size="18" font-weight="500">
+    Software Engineer
+  </text>
+
+  <text x="72" y="152" fill="#64748b" font-family="Segoe UI, system-ui, sans-serif" font-size="14">
+    Lahore, Pakistan  ·  TypeScript  ·  Node.js  ·  React  ·  Next.js
+  </text>
+
+  <rect x="48" y="188" width="804" height="2" rx="1" fill="url(#accent)" opacity="0.5"/>
+</svg>
