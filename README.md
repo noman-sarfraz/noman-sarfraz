@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Noman Sarfraz - Software Engineer" width="100%"/>
+<img src="https://raw.githubusercontent.com/noman-sarfraz/noman-sarfraz/master/assets/banner.svg" alt="Noman Sarfraz - Software Engineer" width="100%"/>
 
 **Building production-grade TypeScript applications — from architecture and APIs to polished user experiences.**
 
