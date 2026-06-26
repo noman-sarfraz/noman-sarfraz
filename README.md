@@ -114,8 +114,6 @@ Software Engineer with **3+ years** of experience shipping scalable web applicat
   <img width="650em" src="https://github.com/noman-sarfraz/noman-sarfraz/blob/master/github-metrics.svg" alt="GitHub Metrics"/>
 </p>
 
-> **Note:** The metrics card above is auto-generated daily via GitHub Actions. After pushing this repo, add a `METRICS_TOKEN` secret (fine-grained PAT with read access) under **Settings → Secrets → Actions**, then run the **Metrics** workflow manually once.
-
 ---
 
 <div align="center">
