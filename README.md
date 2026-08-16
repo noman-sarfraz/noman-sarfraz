@@ -94,7 +94,7 @@ Software Engineer with **3+ years** of experience shipping scalable web applicat
 ## Education
 
 **B.S. Software Engineering** · Punjab University College of Information and Technology, Lahore  
-*Oct 2019 – Aug 2023 · CGPA 3.35*
+*Oct 2019 – Jul 2023 · CGPA 3.35*
 
 **F.Sc. Pre-Engineering** · Royal College of Science, Narowal  
 *Apr 2017 – Jun 2019 · 93%*
