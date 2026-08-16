@@ -36,7 +36,7 @@ Software Engineer with **3+ years** of experience shipping scalable web applicat
 - Reduced React SPA bundle size by **50%**, improving Core Web Vitals and user experience
 
 ### Associate Software Engineer · 7Vals · Lahore, Pakistan
-**Jul 2023 – Jan 2025**
+**Aug 2023 – Jan 2025**
 
 - Developed production features using React, TypeScript, Redux, and RTK
 - Integrated REST APIs across multiple services and managed application data flow
@@ -94,7 +94,7 @@ Software Engineer with **3+ years** of experience shipping scalable web applicat
 ## Education
 
 **B.S. Software Engineering** · Punjab University College of Information and Technology, Lahore  
-*Oct 2019 – Jun 2023 · CGPA 3.35*
+*Oct 2019 – Aug 2023 · CGPA 3.35*
 
 **F.Sc. Pre-Engineering** · Royal College of Science, Narowal  
 *Apr 2017 – Jun 2019 · 93%*
