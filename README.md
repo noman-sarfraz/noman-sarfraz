@@ -27,7 +27,7 @@ Software Engineer with **3+ years** of experience shipping scalable web applicat
 ## Experience
 
 ### Software Engineer · Youvendo · Remote (Germany)
-**Feb 2025 – Present**
+**Dec 2024 – Present**
 
 - Deliver features for **Cashdrill**, a large-scale Next.js platform for task-based incentive flows
 - Own end-to-end delivery across architecture, REST API design, data flow, and release
@@ -36,7 +36,7 @@ Software Engineer with **3+ years** of experience shipping scalable web applicat
 - Reduced React SPA bundle size by **50%**, improving Core Web Vitals and user experience
 
 ### Associate Software Engineer · 7Vals · Lahore, Pakistan
-**Aug 2023 – Jan 2025**
+**Aug 2023 – Nov 2024**
 
 - Developed production features using React, TypeScript, Redux, and RTK
 - Integrated REST APIs across multiple services and managed application data flow
